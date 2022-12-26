@@ -4,4 +4,5 @@
     </x-slot>
 コンポーネント1
 <x-test.card title="タイトル" content="本文" :message="$message"/>
+<x-test.card title="タイトル"/>
 </x-test.app>
